@@ -1,4 +1,0 @@
-kubernites
-docker 
-ansible
-sonar
